@@ -1,0 +1,54 @@
+/*
+
+GIt: 
+VCS: Version COntrol System--> linex ->open source (allows others to contribute to codes)
+git was created to manage VCS... (updates, creating different versions, appending codes)
+
+ mkdir <name of file>..... to create folder.............(creates a file inside the location)
+ls..............to check elements inside location: .... 
+($ ls
+Git-GitHub/  test/
+)
+ touch <file name>............to make a file:
+
+ rm........to remove a file....
+ rm -r........to remove a folder recursively
+
+ cd <jiske andar jana hai>...........to change path
+ (cd test2/
+Dell@DESKTOP-VDASUJ4 MINGW64 ~/Desktop/LEC24/test2
+)
+
+cd ../  .........to come out of a folder
+
+(cd ../
+Dell@DESKTOP-VDASUJ4 MINGW64 ~/Desktop/LEC24
+)
+pwd...........path of working directory...... (/c/Users/Dell/Desktop/LEC24 )
+
+git init
+Initialized empty Git repository in C:/Users/Dell/Desktop/LEC24/.git/
+
+
+folder mein ek hinnder (.git) folder hota hai jismein saare process stored hai
+
+git add index.html............moving file to staging area......
+
+git commit -m "" ............-m se message add hota hai to know what we did in this version
+
+
+<file right-hand side pe (U)-----> shows git is not tracking it....untracked.>
+(M)........tracked file is modified
+
+git config --global user.name ..........to get username of used
+git config --global user.email .............to ger email
+
+to set both.............add "<name>" "<email>"
+
+
+
+
+06.07.2025
+GitHub: clud space
+
+*/
